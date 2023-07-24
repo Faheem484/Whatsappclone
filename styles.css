@@ -1,0 +1,86 @@
+.body{
+    background:rgb(253, 218, 224);
+    font-family:Happy Monkey;
+}
+
+.logo{
+    width:150px;
+    
+    
+}
+
+.btn{
+    margin-left:270px;
+    margin-top:0px;
+    border:none;
+    background:none;
+    font-size:16px;
+}
+
+.btn1{
+    margin-left: 20px;
+    border:none;
+    background:none;
+    font-size:16px;
+}
+
+.btn2{
+    margin-left:20px;
+    border:none;
+    background:none;
+    font-size:16px;
+}
+
+.btn3{
+    margin-left:20px;
+    border:none;
+    background:none;
+    font-size:16px;
+}
+
+.btn4{
+    margin-left:20px;
+    border:none;
+    background:none;
+    font-size:16px;
+}
+
+.btn5{
+    margin-left:70px;
+    border:none;
+    background:none;
+    font-size:16px;
+}
+
+.btn6{
+    margin-left:70px;
+    background:rgb(135, 240, 135);
+    padding-top:15px;
+    padding-bottom:15px;
+    padding-right:40px;
+    padding-left:40px;
+    font-size:16px;
+    border-radius:30px;
+}
+
+.main{
+    margin-left:0px;
+}
+
+.buttons{
+    margin-left:80px;
+    margin-top:none;
+    justify-content:space-around;
+}
+
+.web{
+    
+    width:1000px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:30px;
+    border-radius:50px;
+    
+
+}
